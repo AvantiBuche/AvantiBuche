@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data scientist and Analyst.
+I'm a Data Scientist and Analyst.
 
 ### 🛠 Skills
 Power BI, Tableau, Deep Learning, NLP, Machine Learning, Analytics.
