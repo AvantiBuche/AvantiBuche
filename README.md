@@ -2,7 +2,7 @@
 
 
 ### 🛠 Skills
-Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
+Power BI, Tableau, Deep Learning, NLP, Machine Learning, Analytics.
 
 ### :hammer_and_wrench: Languages and Tools :
 
