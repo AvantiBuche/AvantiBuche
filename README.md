@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm a Data Scientist and Analyst with 5+ years of experience in Analytics and 2+ years in AI/ML.
 
 ### 🛠 Skills
