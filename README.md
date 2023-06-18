@@ -2,7 +2,7 @@
 I'm a Data Scientist and Analyst with 5+ years of experience in Analytics and 2+ years in AI/ML.
 
 ### 🛠 Skills
-Power BI, Tableau, Deep Learning, NLP, Machine Learning, TimeSeries, Yolo, CNN, RNN, ANN, Neural Networks, LSTMs, OpenCV and Analytics.
+Power BI, Tableau, Deep Learning, NLP, Machine Learning, TimeSeries, Yolo, Roboflow, CNN, RNN, ANN, Neural Networks, LSTMs, OpenCV and Analytics.
 
 ### 🔗 Certification
 [![Tableau](Tableau)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80MTEyMzAyXzE2NzQ0NzUzNjQucG5nIiwidXNlcm5hbWUiOiJBdmFudGkgQnVjaGUifQ&utm_source=shared-certificate&utm_medium=app_lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Fcertificates.simplicdn.net%2Fshare%2Fthumb_4112302_1674475364.png&_branch_match_id=1148903202745630849&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1s83cU7Ldqoy8i9PAgBL6LniIwAAAA%3D%3D)
