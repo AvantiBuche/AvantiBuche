@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data Scientist and Analyst with 5+ years of experience in Analytics and 2+ years in AI.
+I'm a Data Scientist and Analyst with 5+ years of experience in Analytics and 2+ years in AI/ML.
 
 ### 🛠 Skills
 Power BI, Tableau, Deep Learning, NLP, Machine Learning, TimeSeries, Yolo, CNN, RNN, ANN, Neural Networks, LSTMs, OpenCV and Analytics.
