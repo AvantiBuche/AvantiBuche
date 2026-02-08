@@ -2,7 +2,8 @@
 I'm a Data Scientist and Analyst.
 
 ### 🛠 Skills
-Python, Machine Learning, Power BI, Tableau, Deep Learning, NLP, TimeSeries, CNN, RNN, ANN, Neural Networks.
+Python, Machine Learning, SQL, Power BI, Tableau, Deep Learning, NLP, TimeSeries, 
+LLM, RAG, Gen AI, Google vertex AI
 
 ### :hammer_and_wrench: Languages and Tools :
 
